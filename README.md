@@ -6,7 +6,7 @@
 - 제출 용 데이터 : Test 데이터셋 중 유저 별 마지막 문제 
 
 # 현재까지 성능 개선에 도움이 된 Feature들
-1. seconds : 이전 문제와의 시간 차이 (780초 이상은 780초로 변환 - 아래 그래프 문제 푼 minute 그래프 참고)![문제 푼 minutes](https://user-images.githubusercontent.com/86274940/167414013-b880013d-5c9d-4537-a0a5-43ea9dc9f2fc.PNG)
+1. seconds : 이전 문제와의 시간 차이 (780초 이상은 780초로 변환 - 아래 그래프 문제 푼 minute 평균 참고)![문제 푼 minutes](https://user-images.githubusercontent.com/86274940/167414013-b880013d-5c9d-4537-a0a5-43ea9dc9f2fc.PNG)
 2. user_correct_answer : 유저 별 정답 누적 합
 3. user_total_answer : 유저 별 푼 문제 수 누적 합
 4. before_correct(n) : 직전 n번째 문제 맞췄는지 여부
